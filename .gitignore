@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build files
+/build
+/dist
+
+# IDE and editor files
+.idea/
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled output and generated files (for various IDEs, build tools, etc.)
+*.class
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.jks
+*.xcodeproj
+*.xcworkspace
+
+# Cache and temporary files
+*.cache
+*.log*
+*.tmp
+*.temp
+*.swp
+
+# Local development environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
